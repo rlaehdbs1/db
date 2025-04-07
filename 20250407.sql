@@ -1,4 +1,4 @@
-³¯¾Æ°¨
+Â³Â¯Â¾Ã†Â°Â¨
 select empno, ename, hiredate from emp where ename LIKE'_A%';
 select ename, hiredate, sal from emp where hiredate>'81-01-01'and sal >=1300;
 select ename, hiredate, sal from emp where hiredate>'82-01-01' or sal >=1300;
